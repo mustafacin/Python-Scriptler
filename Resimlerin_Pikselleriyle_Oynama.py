@@ -14,4 +14,5 @@ for y in range(h):
         pix[x, y] = (r, g, b)
 new_im.save("out1.jpg", "JPEG")
 
-#Değerleri değistirerek farklı piksel aralıklarında incelem yapabilirsiniz.
+#Değerleri değistirerek farklı piksel aralıklarında inceleme yapabilirsiniz.
+
