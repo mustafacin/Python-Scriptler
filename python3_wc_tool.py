@@ -16,3 +16,5 @@ for line in lines:
     harfsayisi += len(line)
 
 print("Line : ",satirsayisi," Word : " , kelimesayisi ," char : ",harfsayisi)
+
+
